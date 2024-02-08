@@ -1,7 +1,6 @@
 package com.example.syumjoba.item;
 
 import com.example.syumjoba.FirstMod;
-import com.example.syumjoba.block.ModBlocks;
 
 import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraft.world.item.Item;
