@@ -1,0 +1,16 @@
+{
+    "type" : "minecraft:crafting_shapeless",
+    "category" : "misc",
+    "pattern" : [
+        "#"
+    ],
+    "key" : {
+        "#" : {
+            "item" : "first_mod:black_opal_block"
+        }
+    },
+    "result" : {
+        "item" : "first_mod:black_opal",
+        "count" : 9
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "variants" : {
+        "" : {
+            "model" : "first_mod:block/nether_sapphire_ore_block"
+        }
+    }
+}

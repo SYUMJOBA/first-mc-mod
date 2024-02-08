@@ -1,0 +1,18 @@
+{
+    "type" : "minecraft:crafting_shaped",
+    "category" : "misc",
+    "pattern" : [
+        "###",
+        "###",
+        "###"
+    ],
+    "key" : {
+        "#" : {
+            "item" : "first_mod:zircon"
+        }
+    },
+    "result" : {
+        "item" : "first_mod:zircon_block",
+        "count" : 1
+    }
+}

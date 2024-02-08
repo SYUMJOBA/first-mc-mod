@@ -1,0 +1,15 @@
+{
+    "type" : "minecraft:crafting_shaped",
+    "category" : "misc",
+    "pattern" : [
+        "###",
+        "###",
+        "###"
+    ],
+    "key" : {
+        "#" : {
+            "item" : "first_mod:black_opal"
+        }
+    },
+    "result" : "first_mod:black_opal_block"
+}

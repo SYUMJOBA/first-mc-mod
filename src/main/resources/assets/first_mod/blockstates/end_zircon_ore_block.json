@@ -1,0 +1,7 @@
+{
+    "variants" : {
+        "" : {
+            "model" : "first_mod:block/end_zircon_ore_block"
+        }
+    }
+}
